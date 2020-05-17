@@ -15,13 +15,21 @@ Descripción: Permite crear nuevos mensajes para debatir sobre una decisión arb
 Actores: Usuarios
 
 Precondiciones: El usuario debe tener una cuenta registrada en nuestra página, independientemente si es premium o no.
+
 Flujo Normal:
+
 1.- El usuario pulsa sobre el botón para crear un mensaje.
+
 2.- El sistema crea una caja donde introducimos el título del mensaje que tiene que ser breve
+
  y una segunda caja en la cual introducimos la reclamación o el mensaje.
+ 
 3.- El usuario introduce el mensaje y pulsa un botón para enviarlo.
+
 4.- El sistema guarda la información en su base de datos.
+
 5.- El sistema recibe la información del nuevo mensaje.
+
 6.- El administrador recibe el mensaje y lo acepta si es un mensaje adecuado, por tanto el sistema publica el mensaje o reclamación.
 
 Flujo Alternativo:
