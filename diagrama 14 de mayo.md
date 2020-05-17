@@ -33,6 +33,7 @@ Flujo Normal:
 6.- El administrador recibe el mensaje y lo acepta si es un mensaje adecuado, por tanto el sistema publica el mensaje o reclamación.
 
 Flujo Alternativo:
+
 1.A- El sistema comprueba si el usuario está registrado o no en la página, sino está registrado abre un panel 
 donde se le solicita el registro para poder enviar mensaje al foro de aportes al árbitro.
 
